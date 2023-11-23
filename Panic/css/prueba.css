@@ -1,0 +1,92 @@
+.element {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.element .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 360px;
+    height: 800px;
+}
+
+.element .overlap-group {
+    position: relative;
+    height: 163px;
+}
+
+.element .rectangle {
+    position: absolute;
+    width: 360px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    background-color: #0069c0;
+}
+
+.element .group {
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    top: 38px;
+    left: 121px;
+    background-color: #d1dee9;
+    border-radius: 62.5px;
+}
+
+.element .xdddd {
+    position: absolute;
+    width: 92px;
+    height: 111px;
+    top: 8px;
+    left: 17px;
+    object-fit: cover;
+}
+.element {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.element .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 360px;
+    height: 800px;
+}
+
+.element .overlap-group {
+    position: relative;
+    height: 163px;
+}
+
+.element .rectangle {
+    position: absolute;
+    width: 360px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    background-color: #0069c0;
+}
+
+.element .group {
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    top: 38px;
+    left: 121px;
+    background-color: #d1dee9;
+    border-radius: 62.5px;
+}
+
+.element .xdddd {
+    position: absolute;
+    width: 92px;
+    height: 111px;
+    top: 8px;
+    left: 17px;
+    object-fit: cover;
+}

@@ -1,0 +1,129 @@
+.element {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .element .div {
+    background-color: #ffffff;
+    width: 360px;
+    height: 800px;
+    position: relative;
+  }
+  
+  .element .overlap-group {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 204px;
+    left: 30px;
+    background-image: url(./img/ellipse-1.png);
+    background-size: 100% 100%;
+  }
+  
+  .element .ellipse {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .element .img {
+    position: absolute;
+    width: 223px;
+    height: 223px;
+    top: 39px;
+    left: 39px;
+  }
+  
+  .element .masss {
+    position: absolute;
+    width: 152px;
+    height: 181px;
+    top: 52px;
+    left: 69px;
+    object-fit: cover;
+  }
+  
+  .element .overlap {
+    position: absolute;
+    width: 271px;
+    height: 53px;
+    top: 553px;
+    left: 44px;
+    background-color: #2196f3;
+    border-radius: 23px;
+  }
+  
+  .element .text-wrapper {
+    width: 201px;
+    top: 18px;
+    left: 36px;
+    position: absolute;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .div-wrapper {
+    position: absolute;
+    width: 271px;
+    height: 53px;
+    top: 655px;
+    left: 45px;
+    background-color: #2196f3;
+    border-radius: 23px;
+  }
+  
+  .element .text-wrapper-2 {
+    width: 177px;
+    top: 15px;
+    left: 59px;
+    position: absolute;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .element .overlap-2 {
+    position: absolute;
+    width: 360px;
+    height: 167px;
+    top: 0;
+    left: 0;
+    background-color: #0069c0;
+  }
+  
+  .element .image {
+    position: absolute;
+    width: 45px;
+    height: 52px;
+    top: 83px;
+    left: 7px;
+    object-fit: cover;
+  }
+  
+  .element .text-wrapper-3 {
+    position: absolute;
+    width: 275px;
+    top: 76px;
+    left: 69px;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
